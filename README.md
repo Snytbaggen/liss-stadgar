@@ -35,6 +35,8 @@ För att se historiken bakom alla ändringar kan man klicka uppe till höger vid al
 "XX commits". Då får man upp en lista med rubriker på alla ändringar, klickar man på dem får man upp en
 längre beskrivning samt exakt vad det är som ändrats sedan förra ändringen.
 
+Om man vill se de oförändrade stadgarna så finns de som `stadgar_original.pdf`
+
 ## Saker att se över
 Här kommer det skrivas saker som antagligen behöver ses över, med både mer och mindre utförliga beskrivningar.
 Listan kommer kontinuerligt ses över och revideras under arbetets gång.
