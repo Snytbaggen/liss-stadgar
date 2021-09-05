@@ -6,21 +6,34 @@ LaTeX, och Git används för att enklare ha uppsikt över vad som sker och i vilken
 Grovt uppdelat sker revideringen i tre steg:
 
 **1. Upprensning och formatering**
+
 Syftet med det här steget är att få stadgarna till en mer homogen och lättläst form, men utan någon
 skillnad i innehållet. Förlegade saker tas bort, strukturer ändras och vissa uttryck byts ut och/eller
 standardiseras i dokumentet.
 
 **2. Omskrivning av nuvarande stadgar**
+
 Det nuvarande språket kan vara ganska tungt och svårläst ("Av föreningsmötet valda funktionärers arbete 
 skall granskas [...]"), och steg 2 kommer vara att skriva om dem till en mer lättläst form utan att
 göra några stora förändringar i hur de fungerar
 
 **3. Stadgeändringar och nya stadgar**
+
 Här skrivs stadgarna om, hål täpps till och nya saker tillkommer. Punkt 1 och 2 handlar egentligen om att
 komma till det här stadiet, där det riktiga arbetet börjar.
 
 Ambitionen är att hålla det så uppdelat som möjligt, men framför allt del 1 och 2 kommer ske med ett
 visst överlapp.
+
+## Hur man visar stadgarna
+Stadgarna är omskrivna till LaTeX, och behöver kompileras till en PDF för att se snygga ut. Det ska finnas
+en fil som heter `stadgar.pdf` som är den senaste versionen av dem, och `stadgar.tex` innehåller all
+källkod. Vill man bygga en pdf själv kan man kopiera allt text i den till en LaTeX-redigerare, t ex TeXworks
+för Windows och Overleaf.com om man vill använda webben.
+
+För att se historiken bakom alla ändringar kan man klicka uppe till höger vid alla filer där det står
+"XX commits". Då får man upp en lista med rubriker på alla ändringar, klickar man på dem får man upp en
+längre beskrivning samt exakt vad det är som ändrats sedan förra ändringen.
 
 ## Saker att se över
 Här kommer det skrivas saker som antagligen behöver ses över, med både mer och mindre utförliga beskrivningar.
