@@ -28,7 +28,7 @@ visst överlapp.
 ## Hur man visar stadgarna
 Stadgarna är omskrivna till LaTeX, och behöver kompileras till en PDF för att se snygga ut. Det ska finnas
 en fil som heter `stadgar.pdf` som är den senaste versionen av dem, och `stadgar.tex` innehåller all
-källkod. Vill man bygga en pdf själv kan man kopiera allt text i den till en LaTeX-redigerare, t ex TeXworks
+källkod. Vill man bygga en pdf själv kan man kopiera allt text i den till en LaTeX-redigerare, t ex MikTex
 för Windows och Overleaf.com om man vill använda webben.
 
 För att se historiken bakom alla ändringar kan man klicka uppe till höger vid alla filer där det står
@@ -88,6 +88,12 @@ Listan kommer kontinuerligt ses över och revideras under arbetets gång.
   och allvarliga fall, t ex vid brott som leder till polisanmälan. Det är också något som man förhoppningsvis
   aldrig behöver använda.
   
+### Föreningsmöten
+- Höstmötet är definierat som "det första föreningsmötet på andra kalenderhalvåret". Detta innebär att det
+  inte finns någon möjlighet att ha extrainsatta föreningsmöten innan höstmötet, och eftersom det brukar hållas
+  i början av oktober är det i princip tre månader där man inte kan ha extrainsatta föreningsmöten. Det borde
+  formuleras om till typ "Höstmötet ska hållas under det andra kalenderhalvåret, före den 15e oktober".
+
 ### Firmatecknare
 - Under "Styrelsen" står det att ordföranden och kassören är firmatecknare. Under "Directionen" står det även
   att directeuren och ekonomichefen har rätt att göra det. Det här borde läggas under samma punkt.
@@ -100,6 +106,22 @@ Listan kommer kontinuerligt ses över och revideras under arbetets gång.
 - Det borde vara tydligare att det finns föreningsrevisorer och uppsättningsrevisorer. Det är just nu väldigt
   otydligt och förvirrande skrivet ("Av föreningsmötet valda funktionärers arbete skall granskas av två 
   revisorer"). 
+
+### Valberedningen
+- Valberedningens uppgifter är vagt beskrivna, och borde definieras lite bättre. Det står bara att valberedningen
+  ska ta fram poster till föreningsmötet, men det borde klargöras om det innebär alla föreningsmöten eller
+  bara vissa.
+
+- Det vore bra med rutiner för vad som händer om någon ur valberedningen blir entledigad, eller väljer att
+  gå ur föreningen. Vilka letar efter en ny kandidat, hur blir hen invald (fyllnadsval av styrelsen eller
+  kallelse till nytt föreningsmöte), och så vidare.
+
+- Eftersom valberedningen ska ta fram kandidater till föreningsmötet så innebär det att de inte ska hjälpa
+  styrelsen med kandidater ifall styrelsen får rätt att fyllnadsvälja till poster. Personligen anser jag inte
+  att det borde vara ett krav att ta fram kandidater i sådana lägen, eftersom ett sådant arbete ofta pågår
+  under betydligt längre tid än ordinarie valberedningsarbete. Oavsett så bör det nog stå i stadgarna vad som
+  gäller i sådana fall, om valberedningen ska ta fram kandidater, vara styrelsen till hjälp eller inte ha
+  några förpliktelser.
   
 ### Detaljstyrning av poster
 - Något jag lagt märke till är att stadgarna har en del detaljstyre om vissa saker (t ex ska styrelsen "den 
