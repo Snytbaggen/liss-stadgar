@@ -65,6 +65,9 @@ Listan kommer kontinuerligt ses över och revideras under arbetets gång.
 - Uteslutning av medlemmar är något som också bör stå med. Förhoppningsvis är det något man aldrig behöver
   använda, men ifall situationen uppstår är det bra om det finns med i stadgarna.
   
+- Medlemsavgiften borde fastslås någonstans, det gör den inte just nu, eller åtminstone inte i den här
+  paragrafen.
+
 ### Styrelsen
 - Just nu är det ett hårt krav på 4 ledamöter för att vara beslutsmässiga. Under normala år fungerar det bra,
   men ifall vi får ett år utan alla styrelseposter kan det bli ett problem. Ett förslag är att istället ha
