@@ -100,6 +100,11 @@ Listan kommer kontinuerligt ses över och revideras under arbetets gång.
   i början av oktober är det i princip tre månader där man inte kan ha extrainsatta föreningsmöten. Det borde
   formuleras om till typ "Höstmötet ska hållas under det andra kalenderhalvåret, före den 15e oktober".
 
+- Det står att vi ska ha minst fyra möten per år, men bara två av dem är nämnda vid namn med speciella före-
+  dragningslistor. Det finns även en lista med saker som föreningsmötet ska göra, men det är väldigt oklart
+  för vilka möten det gäller. Vi borde styra upp det lite mer så det inte finns några tvetydigheter om vad
+  de andra två mötena är, när de ska hållas och vad de ska behandla.
+
 ### Firmatecknare
 - Under "Styrelsen" står det att ordföranden och kassören är firmatecknare. Under "Directionen" står det även
   att directeuren och ekonomichefen har rätt att göra det. Det här borde läggas under samma punkt.
