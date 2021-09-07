@@ -101,11 +101,11 @@ Listan kommer kontinuerligt ses över och revideras under arbetets gång.
 - Om vi något år skulle stå utan ordförande eller kassör så har vi inget stadgemässigt utrymme att utse andra
   firmatecknare. Ett förslag är att låta medlemsmötet utse två myndiga styrelseledamöter som firmatecknare,
   så går det att anpassa efter situationen om så krävs.
-  
-### Revisorer
-- Det borde vara tydligare att det finns föreningsrevisorer och uppsättningsrevisorer. Det är just nu väldigt
-  otydligt och förvirrande skrivet ("Av föreningsmötet valda funktionärers arbete skall granskas av två 
-  revisorer"). 
+
+### Synopsisgruppen
+- I nuläget är det formulerat att förslag ska "hemlighållas för andra än föreningens medlemmar". Det känns som 
+  att det borde ändras, eftersom alla förslag brukar vara hemliga tills ett synopsis blivit valt och presenterat
+  (antar jag)
 
 ### Valberedningen
 - Valberedningens uppgifter är vagt beskrivna, och borde definieras lite bättre. Det står bara att valberedningen
@@ -122,6 +122,11 @@ Listan kommer kontinuerligt ses över och revideras under arbetets gång.
   under betydligt längre tid än ordinarie valberedningsarbete. Oavsett så bör det nog stå i stadgarna vad som
   gäller i sådana fall, om valberedningen ska ta fram kandidater, vara styrelsen till hjälp eller inte ha
   några förpliktelser.
+  
+### Revisorer
+- Det borde vara tydligare att det finns föreningsrevisorer och uppsättningsrevisorer. Det är just nu väldigt
+  otydligt och förvirrande skrivet ("Av föreningsmötet valda funktionärers arbete skall granskas av två 
+  revisorer"). 
   
 ### Detaljstyrning av poster
 - Något jag lagt märke till är att stadgarna har en del detaljstyre om vissa saker (t ex ska styrelsen "den 
