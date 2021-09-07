@@ -68,6 +68,9 @@ Listan kommer kontinuerligt ses över och revideras under arbetets gång.
 - Medlemsavgiften borde fastslås någonstans, det gör den inte just nu, eller åtminstone inte i den här
   paragrafen.
 
+### Verksamhetsår
+- Vi borde definiera ett räkenskapsår också, förslagsvis samma som verksamhetsåret.
+
 ### Styrelsen
 - Just nu är det ett hårt krav på 4 ledamöter för att vara beslutsmässiga. Under normala år fungerar det bra,
   men ifall vi får ett år utan alla styrelseposter kan det bli ett problem. Ett förslag är att istället ha
